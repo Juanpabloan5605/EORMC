@@ -49,4 +49,4 @@ We do not currently operate a formal bug bounty program, but we recognize signif
 
 ## Contact
 
-For non-security inquiries: [eormc.com](https://eormc.org)
+For non-security inquiries: [eormc.org](https://eormc.org)
