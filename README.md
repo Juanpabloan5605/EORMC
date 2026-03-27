@@ -54,10 +54,18 @@ EORMC has built an AI-centered intelligent finance ecosystem, embedding sophisti
   </tr>
 </table>
 
-> - MSB compliance license issued by FinCEN under the U.S. Department of the Treasury
-> - Regulation D qualification granted by the U.S. SEC
+<details>
+  <summary>📄 MSB compliance license issued by FinCEN under the U.S. Department of the Treasury &nbsp;—&nbsp; <b>Check</b></summary>
+  <br/>
+  <img src="./images/MSB compliance license.png" alt="MSB Compliance License" width="600"/>
+</details>
+ 
+<details>
+  <summary>📄 Regulation D qualification granted by the U.S. SEC &nbsp;—&nbsp; <b>Check</b></summary>
+  <br/>
+  <img src="./images/Regulation D qualification.PDF" alt="Regulation D Qualification" width="600"/>
+</details>
 
----
 
 ## History
 
