@@ -1,15 +1,16 @@
 
 <img width="1432" height="300" alt="EORMC Logo" src="https://github.com/user-attachments/assets/0ff01861-bb69-47dc-afe2-7da0eab5ba83" />
 
+
 # EORMC EXCHANGE -The Launchpad to the Crypto Universe
 
----
+
 
 ## What is EORMC?
 
 Founded in November 2020, EORMC is a global crypto trading infrastructure provider with AI as the driver and compliance as its strategic cornerstones. Since its inception, EORMC has adhered to the philosophy of "AI reshapes trading, compliance safeguards value", deeply integrating artificial intelligence technology into every aspect of crypto trading services to deliver trustworthy digital financial solutions for users and institutions worldwide.
 
----
+
 
 ## What is the meaning of the EORMC brand?
 
@@ -17,7 +18,7 @@ The EORMC logo is built around the letter "E", integrating the geometric dynamis
 
 The overall composition resembles a launching spaceship, rising upward and outward, symbolizing EORMC as a "launch vehicle" that propels users across the divide between crypto and traditional finance, steering them toward a new universe of crypto finance that is more equitable, transparent, and intelligent.
 
----
+
 
 ## Why Choose EORMC?
 
@@ -54,6 +55,7 @@ EORMC has built an AI-centered intelligent finance ecosystem, embedding sophisti
   </tr>
 </table>
 
+
 <details>
   <summary>📄 MSB compliance license issued by FinCEN under the U.S. Department of the Treasury &nbsp;—&nbsp; <b>Check</b></summary>
   <br/>
@@ -67,7 +69,9 @@ EORMC has built an AI-centered intelligent finance ecosystem, embedding sophisti
 </details>
 
 
+
 ## History
+
 
 | Year | Month | Milestone |
 |---|---|---|
@@ -91,7 +95,7 @@ EORMC has built an AI-centered intelligent finance ecosystem, embedding sophisti
 | | June | Launched the "EORMC Global Developer Program" to promote innovation at the intersection of blockchain and AI. |
 | | August | Obtained SEC Regulation D compliance certification. |
 
----
+
 
 ## What should we do in the future?
 
